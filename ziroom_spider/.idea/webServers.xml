@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="30bdf388-fdeb-409d-bd4f-18cd47993b66" name="spider" url="http://59.78.194.223">
+        <fileTransfer host="59.78.194.223" port="22" rootFolder="/home/zhw/spider_ziroom" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
